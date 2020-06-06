@@ -1,0 +1,9 @@
+.footer{
+	background: #343a40;
+    text-align: center;
+    color: #fff;
+    padding: 3px;
+}
+.content{
+    min-height: 523px;
+}
